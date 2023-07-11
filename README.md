@@ -7,3 +7,7 @@ Enhance your browsing experience and unleash your creativity with this handy too
 With this extension, you can effortlessly identify and capture colors from any webpage with a single click.
 
 ![Ekran Alıfgddntısı](https://github.com/seliind/color-picker-extension/assets/113685389/76919042-245f-491c-8732-327ab58e2308)
+
+Source code here: https://www.youtube.com/watch?v=coj-l7IrwGU&t=125s 
+Also thanks to CodingNepal!
+
