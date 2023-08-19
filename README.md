@@ -9,5 +9,5 @@ With this extension, you can effortlessly identify and capture colors from any w
 ![Ekran Alıfgddntısı](https://github.com/seliind/color-picker-extension/assets/113685389/76919042-245f-491c-8732-327ab58e2308)
 
 Source code here: https://www.youtube.com/watch?v=coj-l7IrwGU&t=125s 
-Also thanks to CodingNepal!
+** Also thanks to CodingNepal!
 
